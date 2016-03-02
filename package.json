@@ -2,21 +2,21 @@
   "author": {
     "name": "Julien Loutre",
     "email": "julien@twenty-six-medias.com",
-    "url": "http://www.twenty-six-medias.com/"
+    "url": "http://www.fleetwit.com/"
   },
   "name": "gitftbit",
   "description": "gitftbit",
   "version": "1.0.0",
-  "homepage": "https://github.com/26medias/gitftbit",
+  "homepage": "https://github.com/Fleetwit/gitftbit",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/26medias/gitftbit/master/LICENSE"
+      "url": "https://raw.github.com/Fleetwit/gitftbit/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/26medias/gitftbit.git"
+    "url": "git://github.com/Fleetwit/gitftbit.git"
   },
   "main": "gitftbit.js",
   "engines": {
@@ -29,7 +29,7 @@
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/26medias/gitftbit/issues"
+    "url": "https://github.com/Fleetwit/gitftbit/issues"
   },
   "scripts": {}
 }
