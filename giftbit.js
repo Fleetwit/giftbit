@@ -11,7 +11,7 @@ var shortid 		= require('shortid');
 
 var gitftbit = function(options) {
 	this.options = _.extend({
-		token:  'eyJ0eXAiOiJKV1QiLCJhbGciOiJTSEEyNTYifQ==.bGJJZERoMXdyUU9rZHZ3R0ZxUm5PcUU2Y01tbEcvNVN6VGpvSExPeHFTMmZrOHJKYWhsa3BtLy9WazVjNHVCcWJlRHk3cW1uK0hxcWZpc0V2UGxBYktuZitMMVFKOVdnV3VHcU9jY3JPMVBXb1o4TldsYnFJYlZaSFZJTUY2NHU=.c3aHX4kamJjc/3M2re0Q7FSf9FyqVzCJ5ClrkIltIHY=',
+		token:  '',
 		env:	'test'
 	}, options);
 	
