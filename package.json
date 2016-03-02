@@ -4,21 +4,21 @@
     "email": "julien@twenty-six-medias.com",
     "url": "http://www.fleetwit.com/"
   },
-  "name": "gitftbit",
-  "description": "gitftbit",
+  "name": "giftbit",
+  "description": "giftbit",
   "version": "1.0.0",
-  "homepage": "https://github.com/Fleetwit/gitftbit",
+  "homepage": "https://github.com/Fleetwit/giftbit",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/Fleetwit/gitftbit/master/LICENSE"
+      "url": "https://raw.github.com/Fleetwit/giftbit/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Fleetwit/gitftbit.git"
+    "url": "git://github.com/Fleetwit/giftbit.git"
   },
-  "main": "gitftbit.js",
+  "main": "giftbit.js",
   "engines": {
     "node": "*"
   },
@@ -29,7 +29,7 @@
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/Fleetwit/gitftbit/issues"
+    "url": "https://github.com/Fleetwit/giftbit/issues"
   },
   "scripts": {}
 }
