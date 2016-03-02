@@ -1,0 +1,272 @@
+{
+    "marketplace_gifts": [
+        {
+            "id": 1,
+            "name": "Amazon.com Gift Card",
+            "description": "Available in the US. A gift card that can be used towards any product on amazon.com. This gift is sent in US Currency.",
+            "redemption_instructions": "To get your Amazon.com gift card code, click Use Gift Now.\r\n\r\nTo redeem your gift card, follow these steps:\r\n\r\n1. Visit www.amazon.com/gc\r\n2. Click Apply to Account and enter the Claim Code when prompted.\r\n3. Gift card funds will be applied automatically to eligible orders during the checkout process.\r\n4. You must pay for any remaining balance on your order with another payment method.\r\n\r\nYour gift card claim code may also be entered when prompted during checkout. To redeem your gift card using the Amazon.com 1-Click® service, first add the gift card funds to Your Account. If you have questions about redeeming your gift card, please visit www.amazon.com/gc-redeem or contact hello@giftbit.com.",
+            "terms_and_conditions": "Amazon.com Gift Cards (\"GCs\") sold by Kiind Inc., an authorized and independent reseller of Amazon.com Gift Cards. Except as required by law, GCs cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods at Amazon.com or certain of its affiliated websites. For complete terms and conditions, see www.amazon.com/gc-legal. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. ©,®,™ Amazon.com Inc. and/or its affiliates, 2013. No expiration date or service fees.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/80/amazon-73636908-1d6b-49ec-81c9-3819b8c6c408.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "max_price_in_cents": 50000,
+            "min_price_in_cents": 500
+        },
+        {
+            "id": 445,
+            "name": "$100.00 The Home Depot®",
+            "description": "The Home Depot® is helping people do more with their hard earned money. From modest projects like updating your bath to small projects with a big impact like paint. The Home Depot can help you get more done in your home for less. That’s the power of the world’s largest home improvement retailer. The Home Depot. More saving. More doing.SM Giftango is not affiliated with The Home Depot®. The Home Depot® is not a sponsor of this program. The Home Depot® is a registered trademark of Homer TLC, Inc.",
+            "redemption_instructions": "redemption instructions",
+            "terms_and_conditions": "Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/152/TheHomeDepot-a4d38d3d-6d0d-4c0a-8fae-2490f402637a.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                10000
+            ]
+        },
+        {
+            "id": 410,
+            "name": "Starbucks eGift Card",
+            "description": "Available worldwide. Starbucks Coffeehouses have become a beacon for coffee lovers everywhere. Why do they insist on Starbucks? Because they know they can count on genuine service, an inviting atmosphere and a superb cup of expertly roasted and richly brewed coffee every time. This gift is sent in US Currency.",
+            "redemption_instructions": "Enjoying your eGift is easy. Scan this barcode at Starbucks. Or print it out and bring it into any participating Starbucks store. Or transfer the amount onto your registered Starbucks Card to spend later by signing in at www.starbucks.com/account/signin. Treat this eGift like Cash.",
+            "terms_and_conditions": "Reload your eGift and check your balance at participating Starbucks stores, www.starbucks.com/card or 1-800-782-7282. Your Starbucks Card eGift may only be used for making purchases at participating Starbucks stores. It cannot be redeemed for cash unless required by law. Refunds can only be provided for unused eGifts with the original receipt. This eGift does not expire, nor does Starbucks charge fees. Complete terms and conditions available on our website. Use of this eGift constitutes acceptance of these terms and conditions. Treat this eGift like Cash.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/121/sbux-95a3ac32-ac72-4bad-b00d-c7a754c3a6d1.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                500,
+                1000
+            ]
+        },
+        {
+            "id": 377,
+            "name": "$10 iTunes Canada Gift Code",
+            "description": "Available in Canada. Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favourites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.",
+            "redemption_instructions": "To redeem on your Mac or PC: Click Take me to iTunes to redeem my code!\r\n\r\nOr:\r\n\r\nTo redeem on your Mac or PC: 1. Open iTunes and click iTunes Store. Or open the Mac App Store on your Mac. 2. Click Redeem. 3. Enter code. 4. Shop the iTunes Store, the App Store, or the Mac App Store. 5. Download your content. Enjoy. To redeem on your iPhone, iPod touch, or iPad: 1. Tap iTunes. 2. Tap Music and scroll to bottom. 3. Tap Redeem. 4. Enter code. 5. Shop the iTunes Store, the App Store, or the iBookstore. 6. Download your content. Enjoy\r\nIf you have questions about redeeming your gift card, contact hello@giftbit.com.",
+            "terms_and_conditions": "Valid only on iTunes Store for Canada. Requires iTunes account and prior acceptance of license and usage terms. To open an account you must be 13+ and in Canada. Compatible software, hardware, and Internet access required. Not redeemable for cash, no refunds or exchanges (except as required by law). Code may not be used to purchase any other merchandise, allowances or iTunes gifting. Data collection and use subject to Apple Customer Privacy Policy, see www.apple.com/ca/privacy/, unless stated otherwise. Risk of loss and title for code passes to purchaser on transfer. Codes are issued and managed by Apple Value Services, LLC (“Issuer”). Neither Apple nor Issuer is responsible for any loss or damage resulting from lost or stolen codes or use without permission. Apple and its licensees, affiliates, and licensors make no warranties, express or implied, with respect to code or the iTunes Store and disclaim any warranty to the fullest extent available. These limitations may not apply to you. Void where prohibited. Not for resale. Subject to full terms and conditions, see www.apple.com/legal/itunes/ca/gifts.html. Content and pricing subject to availability at the time of actual download. Content purchased from the iTunes Store is for personal lawful use only. Don’t steal music. © 2012 Apple Inc. All rights reserved.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/105/iTunes2-47fad742-d05d-4e58-a184-0428ebf7fac9.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "prices_in_cents": [
+                1000
+            ]
+        },
+        {
+            "id": 412,
+            "name": "Example Gift Card from 2% Jazz",
+            "description": "GiftBit Demo Gift",
+            "redemption_instructions": "When you're ready to pay, select \"Use Gift Now\" to view your gift code. Please note that you must use the entire gift value in a single visit. Visit 2% Jazz in The Hudson (1701 Douglas St.) or at 2631 Douglas Street.",
+            "terms_and_conditions": "This gift has no cash value.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/2/KiindLogo144x144-0c478987-a0af-407c-8436-0c436cb12c11.png",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "max_price_in_cents": 100000,
+            "min_price_in_cents": 500
+        },
+        {
+            "id": 466,
+            "name": "$5 MasterCard",
+            "description": "The official description of the gift will go here.",
+            "redemption_instructions": "Official redemption instructions will appear here.",
+            "terms_and_conditions": "The official terms and conditions of the gift will go here.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/326/mastercardlogo29764-c95694a9-cdab-4706-90a0-165a711105be.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                500
+            ]
+        },
+        {
+            "id": 461,
+            "name": "Target eGift Card",
+            "description": "Available in the USA only. Expect more, pay less with Target. Choose from a wide selection of furniture, baby, electronics, toys, shoes, etc. This gift is sent in US Currency.",
+            "redemption_instructions": "<p><b>To redeem your Target eGiftCard on Target.com:</b></p>\r\n\r\n<p>1) Enter your Target eGiftCard number and access number when checking out</p>\r\n\r\n<p>2) Your eGiftCard will automatically be applied</p>\r\n\r\n\r\n<p><b>\r\nFollow the steps below to redeem your Target eGiftCard at a Target Store in the U.S. You will need a mobile phone with data (Please note that message and data rates may apply.):</b></p>\r\n\r\n<p>1) Save your Target eGiftCard to your Mobile GiftCard account on your web-enabled phone, visit m.target.com/gc </p>\r\n\r\n<p>2) Select My GiftCards within the My Target section</p>\r\n\r\n<p>3) Create a Mobile GiftCard account (or sign in to your existing account) and save your eGiftCard</p>\r\n\r\n<p>4) At checkout, a Target team member will scan the eGift Card from your web-enabled mobile device</p>",
+            "terms_and_conditions": "If you have concerns, please contact customer service at 877-554-2186 or email support@giftbit.com. You may redeem this eGiftCard at any Target.com only or converted to a Target Mobile GiftCard and redeemed at Target stores in the U.S. This card is not redeemable for cash except as required by law. Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/184/target-d4d56e35-a746-40e3-9af9-1e06188400e1.PNG",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                683
+            ]
+        },
+        {
+            "id": 437,
+            "name": "$100.00 Target GiftCard",
+            "description": "Target GiftCards let you shop for thousands of items at more than 1,700 Target and SuperTarget® stores, as well as online at Target.com. To redeem a Target eGiftCard in stores, simply show the barcode on your web-enabled mobile phone (Target stores cannot accept a printed copy of a Target eGiftCard at the register). Please note that data rates may apply.",
+            "redemption_instructions": "redemption instructions",
+            "terms_and_conditions": "If you have concerns, please contact customer service at 877-554-2186 or email hello@giftbit.com. You may redeem this eGiftCard at any Target.com only or converted to a Target Mobile GiftCard and redeemed at Target stores in the U.S. This card is not redeemable for cash except as required by law.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/161/target-94df261c-aeac-4204-9f31-f13039f892ba.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                10000
+            ]
+        },
+        {
+            "id": 408,
+            "name": "Target eGift Card",
+            "description": "Available in the USA only. Expect more, pay less with Target. Choose from a wide selection of furniture, baby, electronics, toys, shoes, etc. This gift is sent in US Currency.",
+            "redemption_instructions": "To redeem your Target eGiftCard on Target.com:\r\n\r\n1) Enter your Target eGiftCard number and access number when checking out\r\n\r\n2) Your eGiftCard will automatically be applied\r\n\r\n\r\n\r\nFollow the steps below to redeem your Target eGiftCard at a Target Store in the U.S. (Please note that message and data rates may apply.):\r\n\r\n1) Save your Target eGiftCard to your Mobile GiftCard account on your web-enabled phone, visit m.target.com/gc\r\n\r\n2) Select “My GiftCards” within the “My Target” section\r\n\r\n3) Create a Mobile GiftCard account (or sign in to your existing account) and save your eGiftCard\r\n\r\n4) At checkout, a Target team member will scan the eGiftCard from your web-enabled mobile device",
+            "terms_and_conditions": "If you have concerns, please contact customer service at 877-554-2186 or email hello@giftbit.com. You may redeem this eGiftCard at any Target.com only or converted to a Target Mobile GiftCard and redeemed at Target stores in the U.S. This card is not redeemable for cash except as required by law.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/161/target4a9131d4ef164e5aba51e10dc8e7940a3919-cb7f5f8e-ebdf-4a10-9c57-1997a98655b5.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                1000,
+                2500,
+                5000
+            ]
+        },
+        {
+            "id": 444,
+            "name": "$50.00 The Home Depot®",
+            "description": "The Home Depot® is helping people do more with their hard earned money. From modest projects like updating your bath to small projects with a big impact like paint. The Home Depot can help you get more done in your home for less. That’s the power of the world’s largest home improvement retailer. The Home Depot. More saving. More doing.SM Giftango is not affiliated with The Home Depot®. The Home Depot® is not a sponsor of this program. The Home Depot® is a registered trademark of Homer TLC, Inc.",
+            "redemption_instructions": "redemption instructions",
+            "terms_and_conditions": "Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/152/TheHomeDepot-a954bab5-4d8b-4d94-bda9-e1b510f0d2dd.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                5000
+            ]
+        },
+        {
+            "id": 468,
+            "name": "iTunes Gift Card",
+            "description": "Redeem your iTunes Code for music, movies, TV shows, games, apps, books, and more on the iTunes Store, the App Store, the iBooks Store, or the Mac App Store.",
+            "redemption_instructions": "Download iTunes content to any iPhone, iPad, iPod touch, Mac, or PC. To redeem: 1. Open iTunes Store. 2. Scroll to bottom and click or tap Redeem. 3. Enter the 16-digit code shown above.",
+            "terms_and_conditions": "Valid only on iTunes Store for U.S. Requires iTunes account and prior acceptance of license and usage terms. To open an account you must be 13+ and in the U.S. Compatible software, hardware, and Internet access required. Not redeemable for cash, no refunds or exchanges (except as required by law). Code may not be used to purchase any other merchandise, allowances or iTunes gifting. Data collection and use subject to Apple Customer Privacy Policy, see www.apple.com/privacy, unless stated otherwise. Risk of loss and title for code passes to purchaser on transfer. Codes are issued and managed by Apple Value Services, LLC (“Issuer”). Neither Apple nor Issuer is responsible for any loss or damage resulting from lost or stolen codes or use without permission. Apple and its licensees, affiliates, and licensors make no warranties, express or implied, with respect to code or the iTunes Store and disclaim any warranty to the fullest extent available. These limitations may not apply to you. Void where prohibited. Not for resale. Subject to full terms and conditions, see www.apple.com/legal/itunes/us/gifts.html. Content and pricing subject to availability at the time of actual download. Content purchased from the iTunes Store is for personal lawful use only. Don’t steal music. © 2014 Apple Inc. All rights reserved.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/106/itunesgiftbit-553177ad-1c5c-40b2-bc4a-66962f6890b6.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "max_price_in_cents": 50000,
+            "min_price_in_cents": 500
+        },
+        {
+            "id": 376,
+            "name": "$50 iTunes Canada Gift Code",
+            "description": "Available in Canada. Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favourites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.",
+            "redemption_instructions": "To redeem on your Mac or PC: Click Take me to iTunes to redeem my code! Or: To redeem on your Mac or PC: 1. Open iTunes and click iTunes Store. Or open the Mac App Store on your Mac. 2. Click Redeem. 3. Enter code. 4. Shop the iTunes Store, the App Store, or the Mac App Store. 5. Download your content. Enjoy. To redeem on your iPhone, iPod touch, or iPad: 1. Tap iTunes. 2. Tap Music and scroll to bottom. 3. Tap Redeem. 4. Enter code. 5. Shop the iTunes Store, the App Store, or the iBookstore. 6. Download your content. Enjoy If you have questions about redeeming your gift card, contact hello@giftbit.com.",
+            "terms_and_conditions": "Valid only on iTunes Store for Canada. Requires iTunes account and prior acceptance of license and usage terms. To open an account you must be 13+ and in Canada. Compatible software, hardware, and Internet access required. Not redeemable for cash, no refunds or exchanges (except as required by law). Code may not be used to purchase any other merchandise, allowances or iTunes gifting. Data collection and use subject to Apple Customer Privacy Policy, see www.apple.com/ca/privacy/, unless stated otherwise. Risk of loss and title for code passes to purchaser on transfer. Codes are issued and managed by Apple Value Services, LLC (“Issuer”). Neither Apple nor Issuer is responsible for any loss or damage resulting from lost or stolen codes or use without permission. Apple and its licensees, affiliates, and licensors make no warranties, express or implied, with respect to code or the iTunes Store and disclaim any warranty to the fullest extent available. These limitations may not apply to you. Void where prohibited. Not for resale. Subject to full terms and conditions, see www.apple.com/legal/itunes/ca/gifts.html. Content and pricing subject to availability at the time of actual download. Content purchased from the iTunes Store is for personal lawful use only. Don’t steal music. © 2012 Apple Inc. All rights reserved.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/105/iTunes2-7a588bed-0b29-4f71-a808-e357c30669d1.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "prices_in_cents": [
+                5000
+            ]
+        },
+        {
+            "id": 465,
+            "name": "Visa® virtual account",
+            "description": "The Visa® virtual account gives you the freedom to enjoy your reward anywhere online. With instant access to spending along with a unique top up feature, the Visa virtual account allows you to enjoy shopping online at your favorite online merchants. The Visa virtual account is a prepaid account that can be used everywhere Visa debit cards are accepted online, by phone or mail within the United States. PLEASE NOTE that sending this gift requires a minimum purchase amount. Please contact us at accounts@kiind.me for more information or create a gift order.",
+            "redemption_instructions": "To activate your prepaid account today, follow these steps: Copy the code below and click the \"Activate my card\" button Go to \"Have a Reward Code?\" from the options on the lower right hand side of the screen and choose \"Click here to activate your reward.\" Enter your code in the field that pops up Follow the on-screen instructions to create your Virtual Visa account with Citibank Once created, your Virtual Visa card number may be used at the sites suggested on the Citibank website or online at any website where Visa is accepted This activation code will expire 60 days from the date of this email if not used. Once activated, your prepaid card will expire after 6 months.",
+            "terms_and_conditions": "If you have concerns, please contact customer service at 1-877-554-2186 or email hello@giftbit.com. This card is not redeemable for cash except as required by law. This account issued by Citibank, N.A. pursuant to a license from Visa U.S.A. Inc. and managed by Citi® Prepaid Services. This account can be used everywhere Visa debit cards are accepted online, by phone or mail within the United States.. Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/311/VirtualReward1f7305a5bccf5486aa12bdc699e10d059-9eb6d5ae-d203-4168-bbf4-2d45c3494e23.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                3000
+            ]
+        },
+        {
+            "id": 462,
+            "name": "Red Bull 4 Pack",
+            "description": "This is not a real gift. UPCE\r\n\r\nFor questions, contact support@giftbit.com",
+            "redemption_instructions": "Redemption Instructions.\r\n\r\nThis is not a real gift.\r\n\r\nFor questions, contact support@giftbit.com",
+            "terms_and_conditions": "This is not a real gift.\r\n\r\nFor questions, contact support@giftbit.com",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/172/circlek-ad1b6ac5-3154-44e3-a812-f2f08eb2ef01.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                500
+            ]
+        },
+        {
+            "id": 456,
+            "name": "$5.00 East Side Mario'sÂ® E-Gift Card",
+            "description": "East Side Mario's is a chain of authentic Italian restaurants that offers great value, even better food, and a fun, lively atmosphere for the whole family.",
+            "redemption_instructions": "Click 'Claim Gift Card' or 'Select Gift' and then 'Show my code'. To redeem this card simply present the print out at any Swiss Chalet®, Montana's Cookhouse & Bar, Kelsey's®, Harvey's®, Milestones®, East Side Mario's®, Casey'?s Grill & Bar®, Bier Markt®, and Fionn MacCool®. For balance information, updated terms and conditions or to register for balance protection, visit www.theultimatediningcard.ca or request your card balance at any Cara restaurant.",
+            "terms_and_conditions": "Use of this E-Gift Card constitutes acceptance of the following terms and conditions: Treat this E-Gift Card as cash. E-Gift cards may only be used to purchase food and beverages at any participating Swiss Chalet®, Harvey’s®, Montana’s Cookhouse & Bar™, Kelsey’s®, Milestones Grill + Bar®, East Side Mario’s®, Casey’s Grill & Bar®, Bier Markt®, Fionn MacCool’s®, D’Arcy McGee’s®, Paddy Flaherty’s® and Tir nan Og® location in Canada. E-Gift Card value is in Canadian dollars. E-Gift Cards cannot be refunded or redeemed for cash, except as required by law. If the E-Gift card is lost, stolen or used with authorization, it cannot be replaced (unless it’s been properly registered for balance protection at www.theultimatediningcard.ca). Purchase amount will be deducted from the unused balance remaining on the E-Gift Card, with any excess purchase price payable at the time of purchase. Terms and conditions may be changed at any time, without notice. For balance information, updated terms and conditions or to register for balance protection, visit www.theultimatediningcard.ca or request your card balance at any Cara restaurant. For other inquiries, call Cara Guest Services at 1-866-636-2321. Issued by Cara Operations Limited. This card is not redeemable for cash except as required by law. Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/246/EastSideMarioslogo2013-91517bd2-728f-45a6-a4c5-3b25642bd83b.png",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "prices_in_cents": [
+                500
+            ]
+        },
+        {
+            "id": 416,
+            "name": "Visa Test Gift",
+            "description": "Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind",
+            "redemption_instructions": "Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind",
+            "terms_and_conditions": "Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiind Be kiindKiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/172/YourLogoHere-bba2a2fd-de17-43f7-99a5-cb8cc3a47e04.png",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "prices_in_cents": [
+                50000
+            ]
+        },
+        {
+            "id": 407,
+            "name": "Swiss Chalet Gift Code",
+            "description": "Available in Canada. Swiss Chalet is all about real food made fresh by real people. That's why they've been a Canadian favourite since their doors first opened way back in 1954. Always so good for so little.",
+            "redemption_instructions": "Available in Canada. Swiss Chalet is all about real food made fresh by real people. That's why they've been a Canadian favourite since their doors first opened way back in 1954. Always so good for so little.",
+            "terms_and_conditions": "If you have concerns, please contact customer service at 1-888-785-1533 or email hello@giftbit.com. You may redeem this Gift Card at any Canadian Swiss Chalet location. This code is not redeemable for cash. Claimed egift cards may not be redeemed for cash, except where required by law. Swiss Chalet, Kiind, and BuyATab are not responsible for lost or stolen cards. Card value may not be replaced if card is lost, stolen or destroyed. This card is not a credit/debit card and has no implied warranties. Use of this card constitutes your acceptance of these terms and conditions. Please treat this gift card like cash and safeguard it accordingly.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/157/swiss-2dcec0f9-dfb7-43a6-a33a-5ea084249c9b.png",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "max_price_in_cents": 20000,
+            "min_price_in_cents": 1000
+        },
+        {
+            "id": 443,
+            "name": "$25.00 The Home Depot®",
+            "description": "The Home Depot® is helping people do more with their hard earned money. From modest projects like updating your bath to small projects with a big impact like paint. The Home Depot can help you get more done in your home for less. That’s the power of the world’s largest home improvement retailer. The Home Depot. More saving. More doing.SM Giftango is not affiliated with The Home Depot®. The Home Depot® is not a sponsor of this program. The Home Depot® is a registered trademark of Homer TLC, Inc.",
+            "redemption_instructions": "redemption instructions",
+            "terms_and_conditions": "Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/152/TheHomeDepot-6b1e7259-e693-4913-a914-b46825f8315a.png",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                2500
+            ]
+        },
+        {
+            "id": 455,
+            "name": "$5.00 iTunes Code",
+            "description": "Redeem your iTunes Code for music, movies, TV shows, games, apps, books, and more on the iTunes Store, the App Store, the iBooks Store, or the Mac App Store.",
+            "redemption_instructions": "Gift cards are redeemable in iTunes®. To redeem on your Mac or PC: 1. Open iTunes and click iTunes Store. Or open the Mac App Store on your Mac. 2. Click Redeem. 3. Enter code. 4. Shop the iTunes Store, the App Store, or the Mac App Store. 5. Download your content. Enjoy. To redeem on your iPhone, iPod touch, or iPad: 1. Tap iTunes. 2. Tap Music and scroll to bottom. 3. Tap Redeem. 4. Enter code. 5. Shop the iTunes Store, the App Store, or the iBookstore. 6. Download your content. Enjoy",
+            "terms_and_conditions": "Valid only on iTunes Store for U.S. Requires iTunes account and prior acceptance of license and usage terms. To open an account you must be 13+ and in the U.S. Compatible software, hardware, and Internet access required. Not redeemable for cash, no refunds or exchanges (except as required by law). Code may not be used to purchase any other merchandise, allowances or iTunes gifting. Data collection and use subject to Apple Customer Privacy Policy, see www.apple.com/privacy, unless stated otherwise. Risk of loss and title for code passes to purchaser on transfer. Codes are issued and managed by Apple Value Services, LLC (“Issuer”). Neither Apple nor Issuer is responsible for any loss or damage resulting from lost or stolen codes or use without permission. Apple and its licensees, affiliates, and licensors make no warranties, express or implied, with respect to code or the iTunes Store and disclaim any warranty to the fullest extent available. These limitations may not apply to you. Void where prohibited. Not for resale. Subject to full terms and conditions, see www.apple.com/legal/itunes/us/gifts.html. Content and pricing subject to availability at the time of actual download. Content purchased from the iTunes Store is for personal lawful use only. Don’t steal music. © 2012 Apple Inc. All rights reserved. iTunes is a registered trademark of Apple Inc., All rights reserved. Apple is not a participant in or sponsor of this promotion. Mac and OS X are trademarks of Apple Inc., registered in the U.S. and other countries.. Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/106/iTunes-82a3879d-db17-4ca1-a821-cc919fe71a89.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "USD",
+            "prices_in_cents": [
+                500
+            ]
+        },
+        {
+            "id": 375,
+            "name": "$25 iTunes Canada Gift Code",
+            "description": "Available in Canada. Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favourites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.",
+            "redemption_instructions": "To redeem on your Mac or PC: Click Take me to iTunes to redeem my code!\r\n\r\nOr:\r\n\r\n1. Open iTunes and click iTunes Store. Or open the Mac App Store on your Mac. 2. Click Redeem. 3. Enter code. 4. Shop the iTunes Store, the App Store, or the Mac App Store. 5. Download your content. Enjoy. To redeem on your iPhone, iPod touch, or iPad: 1. Tap iTunes. 2. Tap Music and scroll to bottom. 3. Tap Redeem. 4. Enter code. 5. Shop the iTunes Store, the App Store, or the iBookstore. 6. Download your content. Enjoy If you have questions about redeeming your gift card, contact hello@giftbit.com.",
+            "terms_and_conditions": "Valid only on iTunes Store for Canada. Requires iTunes account and prior acceptance of license and usage terms. To open an account you must be 13+ and in Canada. Compatible software, hardware, and Internet access required. Not redeemable for cash, no refunds or exchanges (except as required by law). Code may not be used to purchase any other merchandise, allowances or iTunes gifting. Data collection and use subject to Apple Customer Privacy Policy, see www.apple.com/ca/privacy/, unless stated otherwise. Risk of loss and title for code passes to purchaser on transfer. Codes are issued and managed by Apple Value Services, LLC (“Issuer”). Neither Apple nor Issuer is responsible for any loss or damage resulting from lost or stolen codes or use without permission. Apple and its licensees, affiliates, and licensors make no warranties, express or implied, with respect to code or the iTunes Store and disclaim any warranty to the fullest extent available. These limitations may not apply to you. Void where prohibited. Not for resale. Subject to full terms and conditions, see www.apple.com/legal/itunes/ca/gifts.html. Content and pricing subject to availability at the time of actual download. Content purchased from the iTunes Store is for personal lawful use only. Don’t steal music. © 2012 Apple Inc. All rights reserved.Kiind Inc., doing business as Giftbit, and/or Kiind, Corp, doing business as Giftbit through www.giftbit.com, www.kiind.me and/or through Giftbit's mobile application(s) and other services.",
+            "image_url": "https://uploadedimagestestbed.giftbit.com/105/iTunes2-8f0ce2b8-0d66-471e-b684-9d27c7efb81a.jpg",
+            "tax": "NOTAX",
+            "currencyisocode": "CAD",
+            "prices_in_cents": [
+                2500
+            ]
+        }
+    ],
+    "info": {
+        "code": "INFO_MARKETPLACE_RETRIEVED",
+        "name": "Marketplace Gifts Retrieved",
+        "message": "A list of marketplace gifts has been retrieved."
+    },
+    "limit": 20,
+    "offset": 0,
+    "total_count": 50,
+    "number_of_results": 20
+}

@@ -1,0 +1,223 @@
+{
+    "regions": [
+        {
+            "id": 1,
+            "name": "Across Canada",
+            "image_url": "https://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/AcrossCanada_224.png"
+        },
+        {
+            "id": 2,
+            "name": "Across the USA",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/AcrossUSA_224.png"
+        },
+        {
+            "id": 3,
+            "name": "Victoria",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/victoria.jpg",
+            "parent_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Calgary",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/calgary.jpg",
+            "parent_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Chicago",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Chicago_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 6,
+            "name": "Atlanta",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Atlanta_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 7,
+            "name": "Austin",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/austin_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 8,
+            "name": "Houston",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/houston_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 9,
+            "name": "Indianapolis",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/indianapolis_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 10,
+            "name": "Oklahoma City",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/oklahomacity_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 11,
+            "name": "Omaha",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/omaha_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 12,
+            "name": "Orlando",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/orlando_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 13,
+            "name": "Phoenix",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/phoenix_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 14,
+            "name": "San Antonio",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/sanantonio_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 15,
+            "name": "Seattle",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/seattle_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 16,
+            "name": "Tulsa",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/tulsa_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 17,
+            "name": "Las Vegas",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/vegas_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 18,
+            "name": "Philadelphia",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/philadelphia_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 19,
+            "name": "Dallas/Ft. Worth",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Dallas_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 20,
+            "name": "San Jose",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Sanjose_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 21,
+            "name": "Lake Buena Vista",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/buenavista_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 22,
+            "name": "Portland",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/portland_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 23,
+            "name": "Boston",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/boston_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 24,
+            "name": "Brea",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/brea_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 25,
+            "name": "Columbus",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Columbus_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 26,
+            "name": "El Paso",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/elpaso_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 27,
+            "name": "Honolulu",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Honolulu_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 28,
+            "name": "New York",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/newyork_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 29,
+            "name": "San Francisco",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/SanFran_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 30,
+            "name": "Jacksonville",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/jacksonville_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 31,
+            "name": "Sunrise",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/sunrise_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 32,
+            "name": "Denver",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/denver_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 33,
+            "name": "Richmond",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/richmond_224.png",
+            "parent_id": 1
+        },
+        {
+            "id": 34,
+            "name": "San Diego",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/sandiego_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 35,
+            "name": "Fresno",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/Fresno_224.png",
+            "parent_id": 2
+        },
+        {
+            "id": 36,
+            "name": "Tampa",
+            "image_url": "http:s://s3-us-west-2.amazonaws.com/staticimageskiind/card-images/tampa_224.png",
+            "parent_id": 2
+        }
+    ],
+    "info": {
+        "code": "INFO_MARKETPLACE_RETRIEVED_REGIONS",
+        "name": "Marketplace Regions Retrieved",
+        "message": "A list of marketplace regions has been retrieved."
+    }
+}

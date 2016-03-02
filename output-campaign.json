@@ -1,0 +1,9 @@
+{
+    "error": {
+        "code": "ERROR_CAMPAIGN_INVALID_STATE",
+        "name": "Campaign in invalid state",
+        "message": "[primaryMessage:[field:primaryMessage, code:blank]]"
+    },
+    "message": "[primaryMessage:[field:primaryMessage, code:blank]]",
+    "status": 422
+}
